@@ -1,0 +1,24 @@
+{
+  "name": "vue-global-options",
+  "version": "1.0.0",
+  "description": "Make specified options you pass into your root component available on all your child components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waytohealth/vue-global-options.git"
+  },
+  "keywords": [
+    "vue",
+    "js",
+    "options"
+  ],
+  "author": "Way To Health",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waytohealth/vue-global-options/issues"
+  },
+  "homepage": "https://github.com/waytohealth/vue-global-options#readme"
+}
