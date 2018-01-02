@@ -1,6 +1,6 @@
 {
   "name": "vue-global-options",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make specified options you pass into your root component available on all your child components",
   "main": "index.js",
   "scripts": {
